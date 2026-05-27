@@ -57,7 +57,7 @@ I'm a full-stack developer at TCS with a strong backend foundation in Java and S
 - ☕ Powered by a **Spring Boot** backend
 - 🌐 **Live & deployed**
 
-👉 [View Repository](https://github.com/yuvaraj0705/Personal-music-player) &nbsp;|&nbsp; [Live Demo](#) ← *(https://personal-music-player-rho.vercel.app/)*
+👉 [View Repository](https://github.com/yuvaraj0705/Personal-music-player) &nbsp;|&nbsp; [Live Demo](https://personal-music-player-rho.vercel.app/)
 
 ---
 
